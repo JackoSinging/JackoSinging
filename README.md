@@ -48,7 +48,7 @@ JackoSinging is a revolutionary Music Creation Platform (MCP) that enables users
 ### Installation Steps
 ```bash
 # Clone repository
-git clone https://github.com/your-repo/JackoSinging.git
+git clone https://github.com/JackoSinging/JackoSinging.git
 
 # Install frontend dependencies
 cd frontend
